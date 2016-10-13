@@ -89,6 +89,9 @@
         <source-file src="src/android/ui/SelectPrinterActivity.java"
             target-dir="src/de/appplant/cordova/plugin/printer/ui" />
 
+        <source-file src="src/android/ui/CloudPrintDialog.java"
+            target-dir="src/de/appplant/cordova/plugin/printer/ui" />
+
         <source-file src="src/android/reflect/Meta.java"
             target-dir="src/de/appplant/cordova/plugin/printer/reflect" />
 
